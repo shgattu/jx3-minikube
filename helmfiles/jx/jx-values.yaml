@@ -30,6 +30,7 @@ jxRequirements:
     gitName: github
     gitServer: https://github.com
     provider: minikube
+    registry: 10.98.194.114
   environments:
   - key: dev
     owner: shgattu
